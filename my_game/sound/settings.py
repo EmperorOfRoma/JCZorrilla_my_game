@@ -9,8 +9,10 @@ FPS = 30
 RUNNING = True
 
 # player attributes
-PLAYER_ACC = 2
+PLAYER_ACC = 1
 PLAYER_FRICTION = -0.5
+MOB_ACC = 0.5
+MOB_FRICTION = -0.5
 
 # define colors
 WHITE = (255, 255, 255)
